@@ -1,0 +1,15 @@
+iso: NIC
+
+links:
+- level: 0
+  boundary_year: 2007
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NIC/ADM0/geoBoundaries-NIC-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NIC/ADM1/geoBoundaries-NIC-ADM1.geojson
+
+- level: 2
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NIC/ADM2/geoBoundaries-NIC-ADM2.geojson
+

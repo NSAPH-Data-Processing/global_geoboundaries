@@ -1,0 +1,11 @@
+iso: MLT
+
+links:
+- level: 0
+  boundary_year: 2010
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MLT/ADM0/geoBoundaries-MLT-ADM0.geojson
+
+- level: 1
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MLT/ADM1/geoBoundaries-MLT-ADM1.geojson
+

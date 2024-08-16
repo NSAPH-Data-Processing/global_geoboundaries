@@ -1,0 +1,11 @@
+iso: KNA
+
+links:
+- level: 0
+  boundary_year: 2006
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KNA/ADM0/geoBoundaries-KNA-ADM0.geojson
+
+- level: 1
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KNA/ADM1/geoBoundaries-KNA-ADM1.geojson
+

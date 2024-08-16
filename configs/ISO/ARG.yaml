@@ -1,0 +1,15 @@
+iso: ARG
+
+links:
+- level: 0
+  boundary_year: 2006
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARG/ADM0/geoBoundaries-ARG-ADM0.geojson
+
+- level: 1
+  boundary_year: 2006
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARG/ADM1/geoBoundaries-ARG-ADM1.geojson
+
+- level: 2
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARG/ADM2/geoBoundaries-ARG-ADM2.geojson
+

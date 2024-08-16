@@ -1,0 +1,7 @@
+iso: TCA
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TCA/ADM0/geoBoundaries-TCA-ADM0.geojson
+

@@ -1,0 +1,19 @@
+iso: SYC
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYC/ADM0/geoBoundaries-SYC-ADM0.geojson
+
+- level: 1
+  boundary_year: 2018
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYC/ADM1/geoBoundaries-SYC-ADM1.geojson
+
+- level: 2
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYC/ADM2/geoBoundaries-SYC-ADM2.geojson
+
+- level: 3
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYC/ADM3/geoBoundaries-SYC-ADM3.geojson
+

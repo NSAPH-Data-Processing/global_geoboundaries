@@ -1,0 +1,23 @@
+iso: MDG
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDG/ADM0/geoBoundaries-MDG-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDG/ADM1/geoBoundaries-MDG-ADM1.geojson
+
+- level: 2
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDG/ADM2/geoBoundaries-MDG-ADM2.geojson
+
+- level: 3
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDG/ADM3/geoBoundaries-MDG-ADM3.geojson
+
+- level: 4
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDG/ADM4/geoBoundaries-MDG-ADM4.geojson
+

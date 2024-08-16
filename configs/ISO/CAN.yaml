@@ -1,0 +1,19 @@
+iso: CAN
+
+links:
+- level: 0
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAN/ADM0/geoBoundaries-CAN-ADM0.geojson
+
+- level: 1
+  boundary_year: 2023
+  link: https://github.com/wmgeolab/geoBoundaries/raw/41af8f1/releaseData/gbOpen/CAN/ADM1/geoBoundaries-CAN-ADM1.geojson
+
+- level: 2
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAN/ADM2/geoBoundaries-CAN-ADM2.geojson
+
+- level: 3
+  boundary_year: 2016
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAN/ADM3/geoBoundaries-CAN-ADM3.geojson
+

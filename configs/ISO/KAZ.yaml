@@ -1,0 +1,15 @@
+iso: KAZ
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KAZ/ADM0/geoBoundaries-KAZ-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KAZ/ADM1/geoBoundaries-KAZ-ADM1.geojson
+
+- level: 2
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KAZ/ADM2/geoBoundaries-KAZ-ADM2.geojson
+

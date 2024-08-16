@@ -1,0 +1,19 @@
+iso: CHN
+
+links:
+- level: 0
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM0/geoBoundaries-CHN-ADM0.geojson
+
+- level: 1
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM1/geoBoundaries-CHN-ADM1.geojson
+
+- level: 2
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2.geojson
+
+- level: 3
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM3/geoBoundaries-CHN-ADM3.geojson
+

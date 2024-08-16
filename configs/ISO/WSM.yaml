@@ -1,0 +1,15 @@
+iso: WSM
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/WSM/ADM0/geoBoundaries-WSM-ADM0.geojson
+
+- level: 1
+  boundary_year: 2018
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/WSM/ADM1/geoBoundaries-WSM-ADM1.geojson
+
+- level: 2
+  boundary_year: 2011
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/WSM/ADM2/geoBoundaries-WSM-ADM2.geojson
+

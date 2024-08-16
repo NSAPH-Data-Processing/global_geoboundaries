@@ -1,0 +1,15 @@
+iso: TCD
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TCD/ADM0/geoBoundaries-TCD-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TCD/ADM1/geoBoundaries-TCD-ADM1.geojson
+
+- level: 2
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TCD/ADM2/geoBoundaries-TCD-ADM2.geojson
+

@@ -1,0 +1,19 @@
+iso: SWE
+
+links:
+- level: 0
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM0/geoBoundaries-SWE-ADM0.geojson
+
+- level: 1
+  boundary_year: 2009
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM1/geoBoundaries-SWE-ADM1.geojson
+
+- level: 2
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM2/geoBoundaries-SWE-ADM2.geojson
+
+- level: 3
+  boundary_year: 2018
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM3/geoBoundaries-SWE-ADM3.geojson
+

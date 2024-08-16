@@ -1,0 +1,11 @@
+iso: PRI
+
+links:
+- level: 2
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRI/ADM2/geoBoundaries-PRI-ADM2.geojson
+
+- level: 3
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRI/ADM3/geoBoundaries-PRI-ADM3.geojson
+

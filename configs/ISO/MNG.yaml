@@ -1,0 +1,15 @@
+iso: MNG
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNG/ADM0/geoBoundaries-MNG-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNG/ADM1/geoBoundaries-MNG-ADM1.geojson
+
+- level: 2
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNG/ADM2/geoBoundaries-MNG-ADM2.geojson
+

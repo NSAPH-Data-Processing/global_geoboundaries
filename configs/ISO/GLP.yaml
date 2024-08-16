@@ -1,0 +1,11 @@
+iso: GLP
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GLP/ADM0/geoBoundaries-GLP-ADM0.geojson
+
+- level: 4
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GLP/ADM4/geoBoundaries-GLP-ADM4.geojson
+

@@ -1,0 +1,15 @@
+iso: SSD
+
+links:
+- level: 0
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SSD/ADM0/geoBoundaries-SSD-ADM0.geojson
+
+- level: 1
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SSD/ADM1/geoBoundaries-SSD-ADM1.geojson
+
+- level: 2
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SSD/ADM2/geoBoundaries-SSD-ADM2.geojson
+

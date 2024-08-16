@@ -1,0 +1,19 @@
+iso: NPL
+
+links:
+- level: 0
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NPL/ADM0/geoBoundaries-NPL-ADM0.geojson
+
+- level: 1
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NPL/ADM1/geoBoundaries-NPL-ADM1.geojson
+
+- level: 2
+  boundary_year: 2006
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NPL/ADM2/geoBoundaries-NPL-ADM2.geojson
+
+- level: 3
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NPL/ADM3/geoBoundaries-NPL-ADM3.geojson
+

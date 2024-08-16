@@ -1,0 +1,15 @@
+iso: SVN
+
+links:
+- level: 0
+  boundary_year: 2009
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SVN/ADM0/geoBoundaries-SVN-ADM0.geojson
+
+- level: 1
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SVN/ADM1/geoBoundaries-SVN-ADM1.geojson
+
+- level: 2
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SVN/ADM2/geoBoundaries-SVN-ADM2.geojson
+

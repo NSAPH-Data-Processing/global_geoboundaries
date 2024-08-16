@@ -1,0 +1,15 @@
+iso: MEX
+
+links:
+- level: 0
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM0/geoBoundaries-MEX-ADM0.geojson
+
+- level: 1
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/MEX/ADM1/geoBoundaries-MEX-ADM1.geojson
+
+- level: 2
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM2/geoBoundaries-MEX-ADM2.geojson
+

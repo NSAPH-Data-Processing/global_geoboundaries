@@ -1,0 +1,15 @@
+iso: NGA
+
+links:
+- level: 0
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM0/geoBoundaries-NGA-ADM0.geojson
+
+- level: 1
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM1/geoBoundaries-NGA-ADM1.geojson
+
+- level: 2
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM2/geoBoundaries-NGA-ADM2.geojson
+

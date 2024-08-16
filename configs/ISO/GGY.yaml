@@ -1,0 +1,7 @@
+iso: GGY
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GGY/ADM0/geoBoundaries-GGY-ADM0.geojson
+

@@ -1,0 +1,15 @@
+iso: MTQ
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MTQ/ADM0/geoBoundaries-MTQ-ADM0.geojson
+
+- level: 3
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MTQ/ADM3/geoBoundaries-MTQ-ADM3.geojson
+
+- level: 4
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MTQ/ADM4/geoBoundaries-MTQ-ADM4.geojson
+

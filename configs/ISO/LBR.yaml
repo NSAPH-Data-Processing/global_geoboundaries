@@ -1,0 +1,15 @@
+iso: LBR
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LBR/ADM0/geoBoundaries-LBR-ADM0.geojson
+
+- level: 1
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LBR/ADM1/geoBoundaries-LBR-ADM1.geojson
+
+- level: 2
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LBR/ADM2/geoBoundaries-LBR-ADM2.geojson
+

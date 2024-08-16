@@ -1,0 +1,19 @@
+iso: KHM
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KHM/ADM0/geoBoundaries-KHM-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KHM/ADM1/geoBoundaries-KHM-ADM1.geojson
+
+- level: 2
+  boundary_year: 2014
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KHM/ADM2/geoBoundaries-KHM-ADM2.geojson
+
+- level: 3
+  boundary_year: 2014
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KHM/ADM3/geoBoundaries-KHM-ADM3.geojson
+

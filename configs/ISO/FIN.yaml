@@ -1,0 +1,19 @@
+iso: FIN
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FIN/ADM0/geoBoundaries-FIN-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FIN/ADM1/geoBoundaries-FIN-ADM1.geojson
+
+- level: 2
+  boundary_year: 2016
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FIN/ADM2/geoBoundaries-FIN-ADM2.geojson
+
+- level: 3
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FIN/ADM3/geoBoundaries-FIN-ADM3.geojson
+

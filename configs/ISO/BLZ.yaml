@@ -1,0 +1,15 @@
+iso: BLZ
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLZ/ADM0/geoBoundaries-BLZ-ADM0.geojson
+
+- level: 1
+  boundary_year: 2006
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLZ/ADM1/geoBoundaries-BLZ-ADM1.geojson
+
+- level: 2
+  boundary_year: 2008
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLZ/ADM2/geoBoundaries-BLZ-ADM2.geojson
+

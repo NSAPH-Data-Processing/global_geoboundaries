@@ -1,0 +1,15 @@
+iso: NAM
+
+links:
+- level: 0
+  boundary_year: 2014
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NAM/ADM0/geoBoundaries-NAM-ADM0.geojson
+
+- level: 1
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NAM/ADM1/geoBoundaries-NAM-ADM1.geojson
+
+- level: 2
+  boundary_year: 2007
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NAM/ADM2/geoBoundaries-NAM-ADM2.geojson
+

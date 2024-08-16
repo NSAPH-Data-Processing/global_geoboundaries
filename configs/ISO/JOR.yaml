@@ -1,0 +1,15 @@
+iso: JOR
+
+links:
+- level: 0
+  boundary_year: 2016
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JOR/ADM0/geoBoundaries-JOR-ADM0.geojson
+
+- level: 1
+  boundary_year: 2006
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JOR/ADM1/geoBoundaries-JOR-ADM1.geojson
+
+- level: 2
+  boundary_year: 2006
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JOR/ADM2/geoBoundaries-JOR-ADM2.geojson
+

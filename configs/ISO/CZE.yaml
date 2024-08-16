@@ -1,0 +1,23 @@
+iso: CZE
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CZE/ADM0/geoBoundaries-CZE-ADM0.geojson
+
+- level: 1
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CZE/ADM1/geoBoundaries-CZE-ADM1.geojson
+
+- level: 2
+  boundary_year: 2010
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CZE/ADM2/geoBoundaries-CZE-ADM2.geojson
+
+- level: 3
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CZE/ADM3/geoBoundaries-CZE-ADM3.geojson
+
+- level: 4
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CZE/ADM4/geoBoundaries-CZE-ADM4.geojson
+

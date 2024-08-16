@@ -1,0 +1,15 @@
+iso: SLV
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLV/ADM0/geoBoundaries-SLV-ADM0.geojson
+
+- level: 1
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLV/ADM1/geoBoundaries-SLV-ADM1.geojson
+
+- level: 2
+  boundary_year: 2007
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLV/ADM2/geoBoundaries-SLV-ADM2.geojson
+

@@ -1,0 +1,11 @@
+iso: MYT
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MYT/ADM0/geoBoundaries-MYT-ADM0.geojson
+
+- level: 4
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MYT/ADM4/geoBoundaries-MYT-ADM4.geojson
+

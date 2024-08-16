@@ -1,0 +1,11 @@
+iso: NIU
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NIU/ADM0/geoBoundaries-NIU-ADM0.geojson
+
+- level: 1
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NIU/ADM1/geoBoundaries-NIU-ADM1.geojson
+

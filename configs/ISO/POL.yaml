@@ -1,0 +1,19 @@
+iso: POL
+
+links:
+- level: 0
+  boundary_year: 2011
+  link: https://github.com/wmgeolab/geoBoundaries/raw/f549eab/releaseData/gbOpen/POL/ADM0/geoBoundaries-POL-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/POL/ADM1/geoBoundaries-POL-ADM1.geojson
+
+- level: 2
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/POL/ADM2/geoBoundaries-POL-ADM2.geojson
+
+- level: 3
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/POL/ADM3/geoBoundaries-POL-ADM3.geojson
+

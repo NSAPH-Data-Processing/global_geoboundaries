@@ -1,0 +1,15 @@
+iso: SUR
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SUR/ADM0/geoBoundaries-SUR-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SUR/ADM1/geoBoundaries-SUR-ADM1.geojson
+
+- level: 2
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SUR/ADM2/geoBoundaries-SUR-ADM2.geojson
+

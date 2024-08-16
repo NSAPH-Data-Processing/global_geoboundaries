@@ -1,0 +1,19 @@
+iso: GRC
+
+links:
+- level: 0
+  boundary_year: 2016
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GRC/ADM0/geoBoundaries-GRC-ADM0.geojson
+
+- level: 1
+  boundary_year: 2016
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GRC/ADM1/geoBoundaries-GRC-ADM1.geojson
+
+- level: 2
+  boundary_year: 2016
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GRC/ADM2/geoBoundaries-GRC-ADM2.geojson
+
+- level: 3
+  boundary_year: 2010
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GRC/ADM3/geoBoundaries-GRC-ADM3.geojson
+

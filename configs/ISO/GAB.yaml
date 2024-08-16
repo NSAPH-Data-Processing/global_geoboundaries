@@ -1,0 +1,15 @@
+iso: GAB
+
+links:
+- level: 0
+  boundary_year: 2005
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GAB/ADM0/geoBoundaries-GAB-ADM0.geojson
+
+- level: 1
+  boundary_year: 2005
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GAB/ADM1/geoBoundaries-GAB-ADM1.geojson
+
+- level: 2
+  boundary_year: 2018
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GAB/ADM2/geoBoundaries-GAB-ADM2.geojson
+

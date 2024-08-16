@@ -1,0 +1,11 @@
+iso: BRB
+
+links:
+- level: 0
+  boundary_year: 2005
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BRB/ADM0/geoBoundaries-BRB-ADM0.geojson
+
+- level: 1
+  boundary_year: 2005
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BRB/ADM1/geoBoundaries-BRB-ADM1.geojson
+

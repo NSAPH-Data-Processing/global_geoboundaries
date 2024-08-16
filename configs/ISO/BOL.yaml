@@ -1,0 +1,19 @@
+iso: BOL
+
+links:
+- level: 0
+  boundary_year: 2015
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BOL/ADM0/geoBoundaries-BOL-ADM0.geojson
+
+- level: 1
+  boundary_year: 2015
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BOL/ADM1/geoBoundaries-BOL-ADM1.geojson
+
+- level: 2
+  boundary_year: 2015
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BOL/ADM2/geoBoundaries-BOL-ADM2.geojson
+
+- level: 3
+  boundary_year: 2015
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BOL/ADM3/geoBoundaries-BOL-ADM3.geojson
+

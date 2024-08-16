@@ -1,0 +1,11 @@
+iso: LIE
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LIE/ADM0/geoBoundaries-LIE-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LIE/ADM1/geoBoundaries-LIE-ADM1.geojson
+

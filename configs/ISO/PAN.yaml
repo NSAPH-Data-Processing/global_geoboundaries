@@ -1,0 +1,19 @@
+iso: PAN
+
+links:
+- level: 0
+  boundary_year: 2022
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAN/ADM0/geoBoundaries-PAN-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAN/ADM1/geoBoundaries-PAN-ADM1.geojson
+
+- level: 2
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAN/ADM2/geoBoundaries-PAN-ADM2.geojson
+
+- level: 3
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAN/ADM3/geoBoundaries-PAN-ADM3.geojson
+

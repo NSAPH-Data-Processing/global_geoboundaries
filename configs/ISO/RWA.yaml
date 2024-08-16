@@ -1,0 +1,27 @@
+iso: RWA
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM0/geoBoundaries-RWA-ADM0.geojson
+
+- level: 1
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM1/geoBoundaries-RWA-ADM1.geojson
+
+- level: 2
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM2/geoBoundaries-RWA-ADM2.geojson
+
+- level: 3
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM3/geoBoundaries-RWA-ADM3.geojson
+
+- level: 4
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM4/geoBoundaries-RWA-ADM4.geojson
+
+- level: 5
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM5/geoBoundaries-RWA-ADM5.geojson
+

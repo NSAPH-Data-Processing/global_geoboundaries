@@ -1,0 +1,11 @@
+iso: TTO
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TTO/ADM0/geoBoundaries-TTO-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TTO/ADM1/geoBoundaries-TTO-ADM1.geojson
+

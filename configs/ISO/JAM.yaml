@@ -1,0 +1,19 @@
+iso: JAM
+
+links:
+- level: 0
+  boundary_year: 2014
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JAM/ADM0/geoBoundaries-JAM-ADM0.geojson
+
+- level: 1
+  boundary_year: 2011
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JAM/ADM1/geoBoundaries-JAM-ADM1.geojson
+
+- level: 2
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JAM/ADM2/geoBoundaries-JAM-ADM2.geojson
+
+- level: 3
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JAM/ADM3/geoBoundaries-JAM-ADM3.geojson
+

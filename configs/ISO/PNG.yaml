@@ -1,0 +1,19 @@
+iso: PNG
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PNG/ADM0/geoBoundaries-PNG-ADM0.geojson
+
+- level: 1
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PNG/ADM1/geoBoundaries-PNG-ADM1.geojson
+
+- level: 2
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PNG/ADM2/geoBoundaries-PNG-ADM2.geojson
+
+- level: 3
+  boundary_year: 2019
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PNG/ADM3/geoBoundaries-PNG-ADM3.geojson
+

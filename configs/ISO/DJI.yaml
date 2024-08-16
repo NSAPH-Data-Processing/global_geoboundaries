@@ -1,0 +1,15 @@
+iso: DJI
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DJI/ADM0/geoBoundaries-DJI-ADM0.geojson
+
+- level: 1
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DJI/ADM1/geoBoundaries-DJI-ADM1.geojson
+
+- level: 2
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DJI/ADM2/geoBoundaries-DJI-ADM2.geojson
+

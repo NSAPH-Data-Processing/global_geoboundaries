@@ -1,0 +1,15 @@
+iso: PRY
+
+links:
+- level: 0
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRY/ADM0/geoBoundaries-PRY-ADM0.geojson
+
+- level: 1
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRY/ADM1/geoBoundaries-PRY-ADM1.geojson
+
+- level: 2
+  boundary_year: 2012
+  link: https://github.com/wmgeolab/geoBoundaries/raw/f549eab/releaseData/gbOpen/PRY/ADM2/geoBoundaries-PRY-ADM2.geojson
+

@@ -1,0 +1,15 @@
+iso: CYP
+
+links:
+- level: 0
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CYP/ADM0/geoBoundaries-CYP-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CYP/ADM1/geoBoundaries-CYP-ADM1.geojson
+
+- level: 2
+  boundary_year: 2009
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CYP/ADM2/geoBoundaries-CYP-ADM2.geojson
+

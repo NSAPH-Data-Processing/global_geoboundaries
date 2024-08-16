@@ -1,0 +1,11 @@
+iso: MNP
+
+links:
+- level: 0
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNP/ADM0/geoBoundaries-MNP-ADM0.geojson
+
+- level: 2
+  boundary_year: 2021
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNP/ADM2/geoBoundaries-MNP-ADM2.geojson
+

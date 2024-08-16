@@ -1,0 +1,15 @@
+iso: ISL
+
+links:
+- level: 0
+  boundary_year: 2020
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ISL/ADM0/geoBoundaries-ISL-ADM0.geojson
+
+- level: 1
+  boundary_year: 2017
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ISL/ADM1/geoBoundaries-ISL-ADM1.geojson
+
+- level: 2
+  boundary_year: 2016
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ISL/ADM2/geoBoundaries-ISL-ADM2.geojson
+

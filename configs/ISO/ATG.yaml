@@ -1,0 +1,11 @@
+iso: ATG
+
+links:
+- level: 0
+  boundary_year: 2009
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ATG/ADM0/geoBoundaries-ATG-ADM0.geojson
+
+- level: 1
+  boundary_year: 2009
+  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ATG/ADM1/geoBoundaries-ATG-ADM1.geojson
+
