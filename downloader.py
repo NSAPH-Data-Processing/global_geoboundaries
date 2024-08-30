@@ -82,7 +82,7 @@ class Downloader():
         for iso_config in full_iso_config['links']:
             suffix = iso_config['level']
             data_url = iso_config['link']
-            path = self.output_dir + iso + '/ADM' + str(suffix) + '/'
+            path = self.output_dir + iso + '_ADM' + str(suffix) + '/'
             
             if not self.overwrite and os.path.exists(path):
                 logger.info(f'Directory for {iso} exists, skipping download. To overwrite, specify --overwrite.')
