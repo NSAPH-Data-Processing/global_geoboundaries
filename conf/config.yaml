@@ -1,0 +1,7 @@
+defaults:
+  - _self_
+  - output_dir: example
+  - iso: example
+  - dry-run: example
+  - overwrite: example
+  - download-by-iso: example

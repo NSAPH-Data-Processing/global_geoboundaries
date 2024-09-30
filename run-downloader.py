@@ -9,7 +9,8 @@ from args import parser as download_parser
 from downloader import Downloader
 import pycountry
 
-
+from omegaconf import DictConfig, OmegaConf
+import hydra
 
 _ALL_ISO = [c.alpha_3 for c in pycountry.countries]
 
@@ -24,11 +25,11 @@ def iso_from_args(args):
         return _ALL_ISO
 
 
-def config_dir_from_args(args):
-    if args.iso_urls:
-        subdir = 'ISO'
-    elif args.adm_urls:
-        subdir = 'ADM'
+# def config_dir_from_args(args):
+#     if args.iso_urls:
+#         subdir = 'ISO'
+#     elif args.adm_urls:
+#         subdir = 'ADM'
 
     return os.path.join(os.path.dirname(__file__), 'configs', subdir)
 
@@ -40,20 +41,20 @@ def run_type_from_args(args):
         return 'ADM'
     raise ValueError('no run type specified in args: %s' % args)
 
-def main(args_list=None):
-    if args_list is None:
-        args_list = sys.argv[1:]
-    args = download_parser.parse_args(args_list)
+@hydra.main(config_path="conf", config_name="config", version_base=None)
+def main(cfg):
+    # if args_list is None:
+    #     args_list = sys.argv[1:]
+    # args = download_parser.parse_args(args_list)
     
-    config_dir = config_dir_from_args(args)
-    run_type = run_type_from_args(args)
+    # config_dir = config_dir_from_args(args)
     downloader = Downloader(
-        output_dir=args.output_dir,
-        dry_run=args.dry_run, overwrite=args.overwrite, config_dir=config_dir)
+        output_dir=cfg.output_dir,
+        dry_run=cfg.dry_run, overwrite=cfg.overwrite, config_dir=cfg)
 
     failed_isos = []
 
-    for iso in iso_from_args(args):
+    for iso in iso_from_args(cfg.iso):
         errors = downloader.download(iso)
         if errors is None:
             continue
@@ -63,7 +64,7 @@ def main(args_list=None):
 
     if failed_isos:
         failed_isos_str = ', '.join([':'.join(x) for x in failed_isos])
-        logger.error(f"Errored download isos for this {run_type} run: {failed_isos_str}")
+        logger.error(f"Errored download isos for this run: {failed_isos_str}")
     else:
         logger.info("All attempted ISOs successfully downloaded")
 
