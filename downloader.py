@@ -5,6 +5,8 @@ import requests
 import yaml
 import geopandas as gpd
 
+from hydra.core.hydra_config import HydraConfig
+import hydra
 
 class Downloader():
 
@@ -14,7 +16,7 @@ class Downloader():
         self.overwrite = overwrite
         self.dry_run = dry_run
 
-    def save_to_path(self, iso, data_url, path, suffix):
+    def save_to_path(self, iso, data_url, path, level):
         """Saves the .geojson from data_url to the specified path.
 
         Parameters
@@ -32,16 +34,16 @@ class Downloader():
         """
         if self.dry_run:
             logger.warning(
-                f'Dry run: Downloading {iso} ADM{suffix} file from {data_url}')
+                f'Dry run: Downloading {iso} {level} file from {data_url}')
             return
 
-        logger.info(f"Downloading {iso} ADM{suffix} file from {data_url}")
+        logger.info(f"Downloading {iso} {level} file from {data_url}")
 
         response = requests.get(data_url)
 
         if response.status_code == 200:
             gdf = gpd.read_file(response.text)
-            outfilename = iso + '_ADM' + str(suffix) + '.shp'
+            outfilename = iso + '_' + str(level) + '.shp'
             logger.info(f"Saving file to {path + outfilename}")
 
             gdf.to_file(os.path.join(path, outfilename))
@@ -50,43 +52,45 @@ class Downloader():
             raise ValueError(f'Could not download data from URL: {data_url}')
 
 
-    def get_iso_config_from_dir(self, iso):
-        # Return the full parsed iso config from file.
-        config_path = os.path.join(self.config_dir, '%s.yaml' % iso.upper())
-        if not os.path.exists(config_path):
-            return None
+    # def get_iso_config_from_dir(self, iso):
+    #     # Return the full parsed iso config from file.
+    #     print("\n\nconfig path:", self.config_dir)
+       
+    #     # if one of ADM0, AMD1, .... then
+    #     #special case for ISOs
 
-        with open(config_path) as f:
-            config = yaml.safe_load(f)
+    #     import pdb; pdb.set_trace()
+    #     # config_path = os.path.join(self.config_dir.geoboundaries, '%s.yaml' % iso.upper())
+    #     # print("config path:", self.config_dir)
 
-        assert config['iso'] == iso.upper()
-        return config
+    #     config_dict = next((item for item in self.config_dir.geoboundaries['links'] if item['iso'] == iso), None)
 
 
-    # returns a dictionary of downloads to error messages, if any
-    def download(self, iso):
-        # extract iso config
-        try:
-            full_iso_config = self.get_iso_config_from_dir(iso)
-        except Exception as err:
-            logger.error(f'Error getting config for {iso}: {err}')
-            return {iso: f'Error getting config for {iso}: check config for errors'}
+    #     # if not os.path.exists(config_path):
+    #     #     return None
 
-        if full_iso_config is None:
-            logger.info(f'No existing config for {iso}')
-            return
+    #     # with open(config_path) as f:
+    #     #     config = yaml.safe_load(f)
+        
+    #     # c = config['iso' == iso.upper()]
 
+    #     # assert config['iso'] == iso.upper()
+    #     return config_dict
+
+     # returns a dictionary of downloads to error messages, if any
+    def download(self):
         errors = {}  # will map download name to error message if any
-
         # do this for all iso downloads
-        for iso_config in full_iso_config['links']:
-            suffix = iso_config['level']
+        for iso_config in self.config_dir.geoboundaries['links']:
+            # suffix = iso_config['level']
             data_url = iso_config['link']
-            path = self.output_dir + iso + '_ADM' + str(suffix) + '/'
+            iso = iso_config['iso']
+            level = self.config_dir.geoboundaries['adm']                
+            path = self.output_dir + iso + '_' + self.config_dir.geoboundaries['adm'] + '/'
             
             if not self.overwrite and os.path.exists(path):
-                logger.info(f'Directory for {iso} exists, skipping download. To overwrite, specify --overwrite.')
-                return errors
+                logger.info(f'Directory for {iso} exists, skipping download. To overwrite, specify \'overwrite: True\' in the config.')
+                continue
             
             os.makedirs(path, exist_ok=True)
 
@@ -95,14 +99,28 @@ class Downloader():
             for i in range(4):
                 try:
                     self.save_to_path(
-                        iso, data_url, path, suffix)
+                        iso, data_url, path, level)
                     err = None
                     break
                 except Exception as e:
-                    logger.error(f'Download {iso} {suffix} failed attempt %d' % (i+1))
+                    logger.error(f'Download {iso} {level} failed attempt %d' % (i+1))
                     err = e
 
             if err:
-                errors[suffix] = err
+                errors[level] = err
 
         return errors
+    
+@hydra.main(config_path="conf", config_name="config", version_base=None)
+def main(cfg):
+    downloader = Downloader(
+        output_dir=cfg.output_dir,
+        dry_run=cfg.dry_run, overwrite=cfg.overwrite, config_dir=cfg)
+    
+    errors = downloader.download()
+    for suffix, error in errors.items():
+        logger.error(f'Error in level {suffix}: {error}')
+
+
+if __name__ == "__main__":
+    main()
