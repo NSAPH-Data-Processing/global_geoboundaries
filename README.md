@@ -15,7 +15,11 @@ output_dir: output/
 overwrite: False # whether you want to potentially overwrite previous downloads
 
 dry_run: False # to test functionality without downloading anything
+```
 
+From the main folder, run the following:
+```
+python downloader.py
 ```
 
 When run on all countries, e.g. by running on ADM0, ADM1, ADM2, ADM3, ADM4, and ADM5 the resulting output should be a comprehensive directory of global shapefiles that can be used for geospatial analysis.
