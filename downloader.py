@@ -51,45 +51,23 @@ class Downloader():
             logger.error(f'Response status code: {response.status_code}')
             raise ValueError(f'Could not download data from URL: {data_url}')
 
-
-    # def get_iso_config_from_dir(self, iso):
-    #     # Return the full parsed iso config from file.
-    #     print("\n\nconfig path:", self.config_dir)
-       
-    #     # if one of ADM0, AMD1, .... then
-    #     #special case for ISOs
-
-    #     import pdb; pdb.set_trace()
-    #     # config_path = os.path.join(self.config_dir.geoboundaries, '%s.yaml' % iso.upper())
-    #     # print("config path:", self.config_dir)
-
-    #     config_dict = next((item for item in self.config_dir.geoboundaries['links'] if item['iso'] == iso), None)
-
-
-    #     # if not os.path.exists(config_path):
-    #     #     return None
-
-    #     # with open(config_path) as f:
-    #     #     config = yaml.safe_load(f)
-        
-    #     # c = config['iso' == iso.upper()]
-
-    #     # assert config['iso'] == iso.upper()
-    #     return config_dict
-
      # returns a dictionary of downloads to error messages, if any
     def download(self):
-        errors = {}  # will map download name to error message if any
-        # do this for all iso downloads
-        for iso_config in self.config_dir.geoboundaries['links']:
-            # suffix = iso_config['level']
-            data_url = iso_config['link']
-            iso = iso_config['iso']
-            level = self.config_dir.geoboundaries['adm']                
-            path = self.output_dir + iso + '_' + self.config_dir.geoboundaries['adm'] + '/'
+        errors = {}  # will map download name to error message if any        
+        
+        for link_config in self.config_dir.geoboundaries['links']:
+            data_url = link_config['link']
+            if 'level' in link_config: #iso config
+                level = 'ADM' + str(link_config['level'])
+                iso = self.config_dir.geoboundaries['iso']
+            else:
+                level = self.config_dir.geoboundaries['adm']
+                iso = link_config['iso']
+
+            path = self.output_dir + iso + '_' + level + '/'
             
             if not self.overwrite and os.path.exists(path):
-                logger.info(f'Directory for {iso} exists, skipping download. To overwrite, specify \'overwrite: True\' in the config.')
+                logger.info(f'Directory for {iso} exists at {path}, skipping download. To overwrite, specify \'overwrite: True\' in the config.')
                 continue
             
             os.makedirs(path, exist_ok=True)

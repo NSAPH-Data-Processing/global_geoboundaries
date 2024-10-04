@@ -1,12 +1,9 @@
 defaults:
   - _self_
-  - geoboundaries: ADM5
+  - geoboundaries: AM0
 
 output_dir: output/
 
 overwrite: True
 
-dry_run: True
-
-iso: null
-
+dry_run: False
