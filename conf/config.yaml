@@ -1,6 +1,6 @@
 defaults:
   - _self_
-  - geoboundaries: AGO # possible options are ADM0-ADM5 and all ISO codes
+  - geoboundaries: ADM0 # possible options are ADM0-ADM5 and all ISO codes
 
 output_dir: outdir/
 
