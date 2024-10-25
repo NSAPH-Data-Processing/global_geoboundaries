@@ -4,6 +4,4 @@ defaults:
 
 output_dir: outdir/
 
-overwrite: False # whether you want to potentially overwrite previous downloads
-
 dry_run: True # to test functionality without downloading anything

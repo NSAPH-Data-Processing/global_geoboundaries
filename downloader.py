@@ -10,10 +10,9 @@ import hydra
 
 class Downloader():
 
-    def __init__(self, output_dir, config_dir=None, overwrite=False, dry_run=False):
+    def __init__(self, output_dir, config_dir=None, dry_run=False):
         self.output_dir = output_dir
         self.config_dir = config_dir
-        self.overwrite = overwrite
         self.dry_run = dry_run
 
     def save_to_path(self, iso, data_url, path, level):
@@ -51,6 +50,15 @@ class Downloader():
             logger.error(f'Response status code: {response.status_code}')
             raise ValueError(f'Could not download data from URL: {data_url}')
 
+
+
+    # snakemake should perform the download for each item in the config file
+    # don't need for loops, all dictionaries in conf file are being mapped into output dataset
+    # all job workflow related tasks will be handled by snakemake
+    
+
+
+
      # returns a dictionary of downloads to error messages, if any
     def download(self):
         errors = {}  # will map download name to error message if any        
@@ -66,12 +74,7 @@ class Downloader():
 
             path = self.output_dir + iso + '_' + level + '/'
             
-            if not self.overwrite and os.path.exists(path):
-                logger.info(f'Directory for {iso} exists at {path}, skipping download. To overwrite, specify \'overwrite: True\' in the config.')
-                continue
-            
-            if not self.dry_run:
-                os.makedirs(path, exist_ok=True)
+            os.makedirs(path, exist_ok=True)
 
             # try 4 times in case of intermittent issues
             err = None
@@ -94,7 +97,7 @@ class Downloader():
 def main(cfg):
     downloader = Downloader(
         output_dir=cfg.output_dir,
-        dry_run=cfg.dry_run, overwrite=cfg.overwrite, config_dir=cfg)
+        dry_run=cfg.dry_run, config_dir=cfg)
     
     errors = downloader.download()
     for suffix, error in errors.items():
