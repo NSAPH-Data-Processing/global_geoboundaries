@@ -2,8 +2,8 @@ defaults:
   - _self_
   - geoboundaries: ADM0 # possible options are ADM0-ADM5 and all ISO codes
 
-output_dir: output/
+output_dir: outdir/
 
 overwrite: False # whether you want to potentially overwrite previous downloads
 
-dry_run: False # to test functionality without downloading anything
+dry_run: True # to test functionality without downloading anything

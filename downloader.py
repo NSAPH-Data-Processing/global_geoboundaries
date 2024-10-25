@@ -70,7 +70,8 @@ class Downloader():
                 logger.info(f'Directory for {iso} exists at {path}, skipping download. To overwrite, specify \'overwrite: True\' in the config.')
                 continue
             
-            os.makedirs(path, exist_ok=True)
+            if not self.dry_run:
+                os.makedirs(path, exist_ok=True)
 
             # try 4 times in case of intermittent issues
             err = None
