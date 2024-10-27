@@ -1,896 +1,895 @@
-links:
-  - iso: CHE
-    level: ADM2
-    boundary_year: 2022
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHE/ADM2/geoBoundaries-CHE-ADM2.geojson
-
-  - iso: LCA
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LCA/ADM2/geoBoundaries-LCA-ADM2.geojson
-
-  - iso: CAN
-    level: ADM2
-    boundary_year: 2022
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAN/ADM2/geoBoundaries-CAN-ADM2.geojson
-
-  - iso: MWI
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MWI/ADM2/geoBoundaries-MWI-ADM2.geojson
-
-  - iso: ARM
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARM/ADM2/geoBoundaries-ARM-ADM2.geojson
-
-  - iso: GRC
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GRC/ADM2/geoBoundaries-GRC-ADM2.geojson
-
-  - iso: MNP
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNP/ADM2/geoBoundaries-MNP-ADM2.geojson
-
-  - iso: MDV
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM2/geoBoundaries-MDV-ADM2.geojson
-
-  - iso: TKM
-    level: ADM2
-    boundary_year: 2009
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TKM/ADM2/geoBoundaries-TKM-ADM2.geojson
-
-  - iso: RWA
-    level: ADM2
-    boundary_year: 2012
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM2/geoBoundaries-RWA-ADM2.geojson
-
-  - iso: ZMB
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ZMB/ADM2/geoBoundaries-ZMB-ADM2.geojson
-
-  - iso: MMR
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MMR/ADM2/geoBoundaries-MMR-ADM2.geojson
-
-  - iso: MKD
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MKD/ADM2/geoBoundaries-MKD-ADM2.geojson
-
-  - iso: EGY
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM2/geoBoundaries-EGY-ADM2.geojson
-
-  - iso: FSM
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FSM/ADM2/geoBoundaries-FSM-ADM2.geojson
-
-  - iso: SYR
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYR/ADM2/geoBoundaries-SYR-ADM2.geojson
-
-  - iso: PRI
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRI/ADM2/geoBoundaries-PRI-ADM2.geojson
-
-  - iso: DEU
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DEU/ADM2/geoBoundaries-DEU-ADM2.geojson
-
-  - iso: KGZ
-    level: ADM2
-    boundary_year: 2010
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KGZ/ADM2/geoBoundaries-KGZ-ADM2.geojson
-
-  - iso: TJK
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TJK/ADM2/geoBoundaries-TJK-ADM2.geojson
-
-  - iso: OMN
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/OMN/ADM2/geoBoundaries-OMN-ADM2.geojson
-
-  - iso: BEN
-    level: ADM2
-    boundary_year: 2007
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM2/geoBoundaries-BEN-ADM2.geojson
-
-  - iso: LBR
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LBR/ADM2/geoBoundaries-LBR-ADM2.geojson
-
-  - iso: CIV
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM2/geoBoundaries-CIV-ADM2.geojson
-
-  - iso: NZL
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2.geojson
-
-  - iso: CAF
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM2/geoBoundaries-CAF-ADM2.geojson
-
-  - iso: LUX
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LUX/ADM2/geoBoundaries-LUX-ADM2.geojson
-
-  - iso: COG
-    level: ADM2
-    boundary_year: 2007
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COG/ADM2/geoBoundaries-COG-ADM2.geojson
-
-  - iso: TUV
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUV/ADM2/geoBoundaries-TUV-ADM2.geojson
-
-  - iso: MLI
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MLI/ADM2/geoBoundaries-MLI-ADM2.geojson
-
-  - iso: PRT
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PRT/ADM2/geoBoundaries-PRT-ADM2.geojson
-
-  - iso: PAK
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM2/geoBoundaries-PAK-ADM2.geojson
-
-  - iso: MEX
-    level: ADM2
-    boundary_year: 2012
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM2/geoBoundaries-MEX-ADM2.geojson
-
-  - iso: FJI
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM2/geoBoundaries-FJI-ADM2.geojson
-
-  - iso: TGO
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TGO/ADM2/geoBoundaries-TGO-ADM2.geojson
-
-  - iso: VNM
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM2/geoBoundaries-VNM-ADM2.geojson
-
-  - iso: UZB
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UZB/ADM2/geoBoundaries-UZB-ADM2.geojson
-
-  - iso: ALB
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ALB/ADM2/geoBoundaries-ALB-ADM2.geojson
-
-  - iso: CHL
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHL/ADM2/geoBoundaries-CHL-ADM2.geojson
-
-  - iso: LSO
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LSO/ADM2/geoBoundaries-LSO-ADM2.geojson
-
-  - iso: ZWE
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ZWE/ADM2/geoBoundaries-ZWE-ADM2.geojson
-
-  - iso: LVA
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LVA/ADM2/geoBoundaries-LVA-ADM2.geojson
-
-  - iso: LBN
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LBN/ADM2/geoBoundaries-LBN-ADM2.geojson
-
-  - iso: IND
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IND/ADM2/geoBoundaries-IND-ADM2.geojson
-
-  - iso: ESP
-    level: ADM2
-    boundary_year: 2018
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ESP/ADM2/geoBoundaries-ESP-ADM2.geojson
-
-  - iso: AUT
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AUT/ADM2/geoBoundaries-AUT-ADM2.geojson
-
-  - iso: KIR
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KIR/ADM2/geoBoundaries-KIR-ADM2.geojson
-
-  - iso: MRT
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MRT/ADM2/geoBoundaries-MRT-ADM2.geojson
-
-  - iso: MCO
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MCO/ADM2/geoBoundaries-MCO-ADM2.geojson
-
-  - iso: JAM
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JAM/ADM2/geoBoundaries-JAM-ADM2.geojson
-
-  - iso: KWT
-    level: ADM2
-    boundary_year: 2011
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KWT/ADM2/geoBoundaries-KWT-ADM2.geojson
-
-  - iso: SWZ
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM2/geoBoundaries-SWZ-ADM2.geojson
-
-  - iso: UGA
-    level: ADM2
-    boundary_year: 2006
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM2/geoBoundaries-UGA-ADM2.geojson
-
-  - iso: STP
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/STP/ADM2/geoBoundaries-STP-ADM2.geojson
-
-  - iso: SOM
-    level: ADM2
-    boundary_year: 2022
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SOM/ADM2/geoBoundaries-SOM-ADM2.geojson
-
-  - iso: TWN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TWN/ADM2/geoBoundaries-TWN-ADM2.geojson
-
-  - iso: USA
-    level: ADM2
-    boundary_year: 2018
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/USA/ADM2/geoBoundaries-USA-ADM2.geojson
-
-  - iso: TLS
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TLS/ADM2/geoBoundaries-TLS-ADM2.geojson
-
-  - iso: DZA
-    level: ADM2
-    boundary_year: 2012
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DZA/ADM2/geoBoundaries-DZA-ADM2.geojson
-
-  - iso: POL
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/POL/ADM2/geoBoundaries-POL-ADM2.geojson
-
-  - iso: ETH
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM2/geoBoundaries-ETH-ADM2.geojson
-
-  - iso: GEO
-    level: ADM2
-    boundary_year: 2007
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GEO/ADM2/geoBoundaries-GEO-ADM2.geojson
-
-  - iso: AUS
-    level: ADM2
-    boundary_year: 2022
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AUS/ADM2/geoBoundaries-AUS-ADM2.geojson
-
-  - iso: THA
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/THA/ADM2/geoBoundaries-THA-ADM2.geojson
-
-  - iso: BDI
-    level: ADM2
-    boundary_year: 2007
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BDI/ADM2/geoBoundaries-BDI-ADM2.geojson
-
-  - iso: NAM
-    level: ADM2
-    boundary_year: 2007
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NAM/ADM2/geoBoundaries-NAM-ADM2.geojson
-
-  - iso: BGD
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BGD/ADM2/geoBoundaries-BGD-ADM2.geojson
-
-  - iso: BTN
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BTN/ADM2/geoBoundaries-BTN-ADM2.geojson
-
-  - iso: MYS
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MYS/ADM2/geoBoundaries-MYS-ADM2.geojson
-
-  - iso: HND
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/905b0ba/releaseData/gbOpen/HND/ADM2/geoBoundaries-HND-ADM2.geojson
-
-  - iso: SVN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SVN/ADM2/geoBoundaries-SVN-ADM2.geojson
-
-  - iso: CYP
-    level: ADM2
-    boundary_year: 2009
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CYP/ADM2/geoBoundaries-CYP-ADM2.geojson
-
-  - iso: NPL
-    level: ADM2
-    boundary_year: 2006
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NPL/ADM2/geoBoundaries-NPL-ADM2.geojson
-
-  - iso: GMB
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GMB/ADM2/geoBoundaries-GMB-ADM2.geojson
-
-  - iso: DJI
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DJI/ADM2/geoBoundaries-DJI-ADM2.geojson
-
-  - iso: ISR
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ISR/ADM2/geoBoundaries-ISR-ADM2.geojson
-
-  - iso: IRN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IRN/ADM2/geoBoundaries-IRN-ADM2.geojson
-
-  - iso: NGA
-    level: ADM2
-    boundary_year: 2022
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM2/geoBoundaries-NGA-ADM2.geojson
-
-  - iso: ZAF
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ZAF/ADM2/geoBoundaries-ZAF-ADM2.geojson
-
-  - iso: GAB
-    level: ADM2
-    boundary_year: 2018
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GAB/ADM2/geoBoundaries-GAB-ADM2.geojson
-
-  - iso: HRV
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HRV/ADM2/geoBoundaries-HRV-ADM2.geojson
-
-  - iso: JPN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JPN/ADM2/geoBoundaries-JPN-ADM2.geojson
-
-  - iso: SYC
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYC/ADM2/geoBoundaries-SYC-ADM2.geojson
-
-  - iso: VEN
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VEN/ADM2/geoBoundaries-VEN-ADM2.geojson
-
-  - iso: BHS
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BHS/ADM2/geoBoundaries-BHS-ADM2.geojson
-
-  - iso: AGO
-    level: ADM2
-    boundary_year: 2006
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AGO/ADM2/geoBoundaries-AGO-ADM2.geojson
-
-  - iso: COD
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COD/ADM2/geoBoundaries-COD-ADM2.geojson
-
-  - iso: TCD
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TCD/ADM2/geoBoundaries-TCD-ADM2.geojson
-
-  - iso: BOL
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BOL/ADM2/geoBoundaries-BOL-ADM2.geojson
-
-  - iso: CHN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2.geojson
-
-  - iso: PHL
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/41af8f1/releaseData/gbOpen/PHL/ADM2/geoBoundaries-PHL-ADM2.geojson
-
-  - iso: DNK
-    level: ADM2
-    boundary_year: 2018
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DNK/ADM2/geoBoundaries-DNK-ADM2.geojson
-
-  - iso: SGP
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SGP/ADM2/geoBoundaries-SGP-ADM2.geojson
-
-  - iso: SVK
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SVK/ADM2/geoBoundaries-SVK-ADM2.geojson
-
-  - iso: WSM
-    level: ADM2
-    boundary_year: 2011
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/WSM/ADM2/geoBoundaries-WSM-ADM2.geojson
-
-  - iso: SEN
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SEN/ADM2/geoBoundaries-SEN-ADM2.geojson
-
-  - iso: SLE
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLE/ADM2/geoBoundaries-SLE-ADM2.geojson
-
-  - iso: MDG
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDG/ADM2/geoBoundaries-MDG-ADM2.geojson
-
-  - iso: DOM
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DOM/ADM2/geoBoundaries-DOM-ADM2.geojson
-
-  - iso: ECU
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ECU/ADM2/geoBoundaries-ECU-ADM2.geojson
-
-  - iso: NLD
-    level: ADM2
-    boundary_year: 2022
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NLD/ADM2/geoBoundaries-NLD-ADM2.geojson
-
-  - iso: TON
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM2/geoBoundaries-TON-ADM2.geojson
-
-  - iso: GUM
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GUM/ADM2/geoBoundaries-GUM-ADM2.geojson
-
-  - iso: IRQ
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IRQ/ADM2/geoBoundaries-IRQ-ADM2.geojson
-
-  - iso: ROU
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ROU/ADM2/geoBoundaries-ROU-ADM2.geojson
-
-  - iso: RUS
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM2/geoBoundaries-RUS-ADM2.geojson
-
-  - iso: PNG
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PNG/ADM2/geoBoundaries-PNG-ADM2.geojson
-
-  - iso: GHA
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GHA/ADM2/geoBoundaries-GHA-ADM2.geojson
-
-  - iso: ERI
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ERI/ADM2/geoBoundaries-ERI-ADM2.geojson
-
-  - iso: CZE
-    level: ADM2
-    boundary_year: 2010
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CZE/ADM2/geoBoundaries-CZE-ADM2.geojson
-
-  - iso: BWA
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BWA/ADM2/geoBoundaries-BWA-ADM2.geojson
-
-  - iso: CPV
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CPV/ADM2/geoBoundaries-CPV-ADM2.geojson
-
-  - iso: MOZ
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MOZ/ADM2/geoBoundaries-MOZ-ADM2.geojson
-
-  - iso: GBR
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GBR/ADM2/geoBoundaries-GBR-ADM2.geojson
-
-  - iso: SLB
-    level: ADM2
-    boundary_year: 2018
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLB/ADM2/geoBoundaries-SLB-ADM2.geojson
-
-  - iso: COL
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COL/ADM2/geoBoundaries-COL-ADM2.geojson
-
-  - iso: VUT
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VUT/ADM2/geoBoundaries-VUT-ADM2.geojson
-
-  - iso: YEM
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/YEM/ADM2/geoBoundaries-YEM-ADM2.geojson
-
-  - iso: GNB
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GNB/ADM2/geoBoundaries-GNB-ADM2.geojson
-
-  - iso: IRL
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IRL/ADM2/geoBoundaries-IRL-ADM2.geojson
-
-  - iso: HUN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HUN/ADM2/geoBoundaries-HUN-ADM2.geojson
-
-  - iso: NER
-    level: ADM2
-    boundary_year: 2018
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NER/ADM2/geoBoundaries-NER-ADM2.geojson
-
-  - iso: CMR
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CMR/ADM2/geoBoundaries-CMR-ADM2.geojson
-
-  - iso: CUB
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CUB/ADM2/geoBoundaries-CUB-ADM2.geojson
-
-  - iso: TUR
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM2/geoBoundaries-TUR-ADM2.geojson
-
-  - iso: LTU
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LTU/ADM2/geoBoundaries-LTU-ADM2.geojson
-
-  - iso: BIH
-    level: ADM2
-    boundary_year: 2013
-    link: https://github.com/wmgeolab/geoBoundaries/raw/f549eab/releaseData/gbOpen/BIH/ADM2/geoBoundaries-BIH-ADM2.geojson
-
-  - iso: PER
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PER/ADM2/geoBoundaries-PER-ADM2.geojson
-
-  - iso: KAZ
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KAZ/ADM2/geoBoundaries-KAZ-ADM2.geojson
-
-  - iso: SWE
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM2/geoBoundaries-SWE-ADM2.geojson
-
-  - iso: ITA
-    level: ADM2
-    boundary_year: 2023
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ITA/ADM2/geoBoundaries-ITA-ADM2.geojson
-
-  - iso: SLV
-    level: ADM2
-    boundary_year: 2007
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLV/ADM2/geoBoundaries-SLV-ADM2.geojson
-
-  - iso: EST
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EST/ADM2/geoBoundaries-EST-ADM2.geojson
-
-  - iso: LKA
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LKA/ADM2/geoBoundaries-LKA-ADM2.geojson
-
-  - iso: HTI
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HTI/ADM2/geoBoundaries-HTI-ADM2.geojson
-
-  - iso: PLW
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PLW/ADM2/geoBoundaries-PLW-ADM2.geojson
-
-  - iso: UKR
-    level: ADM2
-    boundary_year: 2006
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM2/geoBoundaries-UKR-ADM2.geojson
-
-  - iso: COM
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COM/ADM2/geoBoundaries-COM-ADM2.geojson
-
-  - iso: BRN
-    level: ADM2
-    boundary_year: 2006
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BRN/ADM2/geoBoundaries-BRN-ADM2.geojson
-
-  - iso: BGR
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BGR/ADM2/geoBoundaries-BGR-ADM2.geojson
-
-  - iso: TZA
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TZA/ADM2/geoBoundaries-TZA-ADM2.geojson
-
-  - iso: MNG
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNG/ADM2/geoBoundaries-MNG-ADM2.geojson
-
-  - iso: PAN
-    level: ADM2
-    boundary_year: 2012
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAN/ADM2/geoBoundaries-PAN-ADM2.geojson
-
-  - iso: GTM
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GTM/ADM2/geoBoundaries-GTM-ADM2.geojson
-
-  - iso: FIN
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FIN/ADM2/geoBoundaries-FIN-ADM2.geojson
-
-  - iso: BRA
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BRA/ADM2/geoBoundaries-BRA-ADM2.geojson
-
-  - iso: PRK
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRK/ADM2/geoBoundaries-PRK-ADM2.geojson
-
-  - iso: CRI
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CRI/ADM2/geoBoundaries-CRI-ADM2.geojson
-
-  - iso: BEL
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEL/ADM2/geoBoundaries-BEL-ADM2.geojson
-
-  - iso: NIC
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NIC/ADM2/geoBoundaries-NIC-ADM2.geojson
-
-  - iso: BFA
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM2/geoBoundaries-BFA-ADM2.geojson
-
-  - iso: BLR
-    level: ADM2
-    boundary_year: 2005
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM2/geoBoundaries-BLR-ADM2.geojson
-
-  - iso: SDN
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SDN/ADM2/geoBoundaries-SDN-ADM2.geojson
-
-  - iso: JOR
-    level: ADM2
-    boundary_year: 2006
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JOR/ADM2/geoBoundaries-JOR-ADM2.geojson
-
-  - iso: SAU
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SAU/ADM2/geoBoundaries-SAU-ADM2.geojson
-
-  - iso: FRA
-    level: ADM2
-    boundary_year: 2022
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FRA/ADM2/geoBoundaries-FRA-ADM2.geojson
-
-  - iso: SSD
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SSD/ADM2/geoBoundaries-SSD-ADM2.geojson
-
-  - iso: PSE
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PSE/ADM2/geoBoundaries-PSE-ADM2.geojson
-
-  - iso: PRY
-    level: ADM2
-    boundary_year: 2012
-    link: https://github.com/wmgeolab/geoBoundaries/raw/f549eab/releaseData/gbOpen/PRY/ADM2/geoBoundaries-PRY-ADM2.geojson
-
-  - iso: SUR
-    level: ADM2
-    boundary_year: 2021
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SUR/ADM2/geoBoundaries-SUR-ADM2.geojson
-
-  - iso: IDN
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2.geojson
-
-  - iso: LAO
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LAO/ADM2/geoBoundaries-LAO-ADM2.geojson
-
-  - iso: AZE
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AZE/ADM2/geoBoundaries-AZE-ADM2.geojson
-
-  - iso: ARG
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARG/ADM2/geoBoundaries-ARG-ADM2.geojson
-
-  - iso: KEN
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM2/geoBoundaries-KEN-ADM2.geojson
-
-  - iso: MAR
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MAR/ADM2/geoBoundaries-MAR-ADM2.geojson
-
-  - iso: NOR
-    level: ADM2
-    boundary_year: 2013
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NOR/ADM2/geoBoundaries-NOR-ADM2.geojson
-
-  - iso: AFG
-    level: ADM2
-    boundary_year: 2014
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AFG/ADM2/geoBoundaries-AFG-ADM2.geojson
-
-  - iso: GIN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GIN/ADM2/geoBoundaries-GIN-ADM2.geojson
-
-  - iso: SRB
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SRB/ADM2/geoBoundaries-SRB-ADM2.geojson
-
-  - iso: GUY
-    level: ADM2
-    boundary_year: 2019
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GUY/ADM2/geoBoundaries-GUY-ADM2.geojson
-
-  - iso: KHM
-    level: ADM2
-    boundary_year: 2014
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KHM/ADM2/geoBoundaries-KHM-ADM2.geojson
-
-  - iso: URY
-    level: ADM2
-    boundary_year: 2013
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/URY/ADM2/geoBoundaries-URY-ADM2.geojson
-
-  - iso: TUN
-    level: ADM2
-    boundary_year: 2017
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUN/ADM2/geoBoundaries-TUN-ADM2.geojson
-
-  - iso: GNQ
-    level: ADM2
-    boundary_year: 2013
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GNQ/ADM2/geoBoundaries-GNQ-ADM2.geojson
-
-  - iso: ISL
-    level: ADM2
-    boundary_year: 2016
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ISL/ADM2/geoBoundaries-ISL-ADM2.geojson
-
-  - iso: QAT
-    level: ADM2
-    boundary_year: 2015
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/QAT/ADM2/geoBoundaries-QAT-ADM2.geojson
-
-  - iso: BLZ
-    level: ADM2
-    boundary_year: 2008
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLZ/ADM2/geoBoundaries-BLZ-ADM2.geojson
-
-  - iso: KOR
-    level: ADM2
-    boundary_year: 2020
-    link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KOR/ADM2/geoBoundaries-KOR-ADM2.geojson
+- iso: CHE
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHE/ADM2/geoBoundaries-CHE-ADM2.geojson
+
+- iso: LCA
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LCA/ADM2/geoBoundaries-LCA-ADM2.geojson
+
+- iso: CAN
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAN/ADM2/geoBoundaries-CAN-ADM2.geojson
+
+- iso: MWI
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MWI/ADM2/geoBoundaries-MWI-ADM2.geojson
+
+- iso: ARM
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARM/ADM2/geoBoundaries-ARM-ADM2.geojson
+
+- iso: GRC
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GRC/ADM2/geoBoundaries-GRC-ADM2.geojson
+
+- iso: MNP
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNP/ADM2/geoBoundaries-MNP-ADM2.geojson
+
+- iso: MDV
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM2/geoBoundaries-MDV-ADM2.geojson
+
+- iso: TKM
+  level: ADM2
+  boundary_year: 2009
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TKM/ADM2/geoBoundaries-TKM-ADM2.geojson
+
+- iso: RWA
+  level: ADM2
+  boundary_year: 2012
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM2/geoBoundaries-RWA-ADM2.geojson
+
+- iso: ZMB
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ZMB/ADM2/geoBoundaries-ZMB-ADM2.geojson
+
+- iso: MMR
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MMR/ADM2/geoBoundaries-MMR-ADM2.geojson
+
+- iso: MKD
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MKD/ADM2/geoBoundaries-MKD-ADM2.geojson
+
+- iso: EGY
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM2/geoBoundaries-EGY-ADM2.geojson
+
+- iso: FSM
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FSM/ADM2/geoBoundaries-FSM-ADM2.geojson
+
+- iso: SYR
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYR/ADM2/geoBoundaries-SYR-ADM2.geojson
+
+- iso: PRI
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRI/ADM2/geoBoundaries-PRI-ADM2.geojson
+
+- iso: DEU
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DEU/ADM2/geoBoundaries-DEU-ADM2.geojson
+
+- iso: KGZ
+  level: ADM2
+  boundary_year: 2010
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KGZ/ADM2/geoBoundaries-KGZ-ADM2.geojson
+
+- iso: TJK
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TJK/ADM2/geoBoundaries-TJK-ADM2.geojson
+
+- iso: OMN
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/OMN/ADM2/geoBoundaries-OMN-ADM2.geojson
+
+- iso: BEN
+  level: ADM2
+  boundary_year: 2007
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM2/geoBoundaries-BEN-ADM2.geojson
+
+- iso: LBR
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LBR/ADM2/geoBoundaries-LBR-ADM2.geojson
+
+- iso: CIV
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM2/geoBoundaries-CIV-ADM2.geojson
+
+- iso: NZL
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NZL/ADM2/geoBoundaries-NZL-ADM2.geojson
+
+- iso: CAF
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM2/geoBoundaries-CAF-ADM2.geojson
+
+- iso: LUX
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LUX/ADM2/geoBoundaries-LUX-ADM2.geojson
+
+- iso: COG
+  level: ADM2
+  boundary_year: 2007
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COG/ADM2/geoBoundaries-COG-ADM2.geojson
+
+- iso: TUV
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUV/ADM2/geoBoundaries-TUV-ADM2.geojson
+
+- iso: MLI
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MLI/ADM2/geoBoundaries-MLI-ADM2.geojson
+
+- iso: PRT
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PRT/ADM2/geoBoundaries-PRT-ADM2.geojson
+
+- iso: PAK
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM2/geoBoundaries-PAK-ADM2.geojson
+
+- iso: MEX
+  level: ADM2
+  boundary_year: 2012
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM2/geoBoundaries-MEX-ADM2.geojson
+
+- iso: FJI
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM2/geoBoundaries-FJI-ADM2.geojson
+
+- iso: TGO
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TGO/ADM2/geoBoundaries-TGO-ADM2.geojson
+
+- iso: VNM
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM2/geoBoundaries-VNM-ADM2.geojson
+
+- iso: UZB
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UZB/ADM2/geoBoundaries-UZB-ADM2.geojson
+
+- iso: ALB
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ALB/ADM2/geoBoundaries-ALB-ADM2.geojson
+
+- iso: CHL
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHL/ADM2/geoBoundaries-CHL-ADM2.geojson
+
+- iso: LSO
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LSO/ADM2/geoBoundaries-LSO-ADM2.geojson
+
+- iso: ZWE
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ZWE/ADM2/geoBoundaries-ZWE-ADM2.geojson
+
+- iso: LVA
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LVA/ADM2/geoBoundaries-LVA-ADM2.geojson
+
+- iso: LBN
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LBN/ADM2/geoBoundaries-LBN-ADM2.geojson
+
+- iso: IND
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IND/ADM2/geoBoundaries-IND-ADM2.geojson
+
+- iso: ESP
+  level: ADM2
+  boundary_year: 2018
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ESP/ADM2/geoBoundaries-ESP-ADM2.geojson
+
+- iso: AUT
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AUT/ADM2/geoBoundaries-AUT-ADM2.geojson
+
+- iso: KIR
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KIR/ADM2/geoBoundaries-KIR-ADM2.geojson
+
+- iso: MRT
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MRT/ADM2/geoBoundaries-MRT-ADM2.geojson
+
+- iso: MCO
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MCO/ADM2/geoBoundaries-MCO-ADM2.geojson
+
+- iso: JAM
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JAM/ADM2/geoBoundaries-JAM-ADM2.geojson
+
+- iso: KWT
+  level: ADM2
+  boundary_year: 2011
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KWT/ADM2/geoBoundaries-KWT-ADM2.geojson
+
+- iso: SWZ
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM2/geoBoundaries-SWZ-ADM2.geojson
+
+- iso: UGA
+  level: ADM2
+  boundary_year: 2006
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM2/geoBoundaries-UGA-ADM2.geojson
+
+- iso: STP
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/STP/ADM2/geoBoundaries-STP-ADM2.geojson
+
+- iso: SOM
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SOM/ADM2/geoBoundaries-SOM-ADM2.geojson
+
+- iso: TWN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TWN/ADM2/geoBoundaries-TWN-ADM2.geojson
+
+- iso: USA
+  level: ADM2
+  boundary_year: 2018
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/USA/ADM2/geoBoundaries-USA-ADM2.geojson
+
+- iso: TLS
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TLS/ADM2/geoBoundaries-TLS-ADM2.geojson
+
+- iso: DZA
+  level: ADM2
+  boundary_year: 2012
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DZA/ADM2/geoBoundaries-DZA-ADM2.geojson
+
+- iso: POL
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/POL/ADM2/geoBoundaries-POL-ADM2.geojson
+
+- iso: ETH
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM2/geoBoundaries-ETH-ADM2.geojson
+
+- iso: GEO
+  level: ADM2
+  boundary_year: 2007
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GEO/ADM2/geoBoundaries-GEO-ADM2.geojson
+
+- iso: AUS
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AUS/ADM2/geoBoundaries-AUS-ADM2.geojson
+
+- iso: THA
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/THA/ADM2/geoBoundaries-THA-ADM2.geojson
+
+- iso: BDI
+  level: ADM2
+  boundary_year: 2007
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BDI/ADM2/geoBoundaries-BDI-ADM2.geojson
+
+- iso: NAM
+  level: ADM2
+  boundary_year: 2007
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NAM/ADM2/geoBoundaries-NAM-ADM2.geojson
+
+- iso: BGD
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BGD/ADM2/geoBoundaries-BGD-ADM2.geojson
+
+- iso: BTN
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BTN/ADM2/geoBoundaries-BTN-ADM2.geojson
+
+- iso: MYS
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MYS/ADM2/geoBoundaries-MYS-ADM2.geojson
+
+- iso: HND
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/905b0ba/releaseData/gbOpen/HND/ADM2/geoBoundaries-HND-ADM2.geojson
+
+- iso: SVN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SVN/ADM2/geoBoundaries-SVN-ADM2.geojson
+
+- iso: CYP
+  level: ADM2
+  boundary_year: 2009
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CYP/ADM2/geoBoundaries-CYP-ADM2.geojson
+
+- iso: NPL
+  level: ADM2
+  boundary_year: 2006
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NPL/ADM2/geoBoundaries-NPL-ADM2.geojson
+
+- iso: GMB
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GMB/ADM2/geoBoundaries-GMB-ADM2.geojson
+
+- iso: DJI
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DJI/ADM2/geoBoundaries-DJI-ADM2.geojson
+
+- iso: ISR
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ISR/ADM2/geoBoundaries-ISR-ADM2.geojson
+
+- iso: IRN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IRN/ADM2/geoBoundaries-IRN-ADM2.geojson
+
+- iso: NGA
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM2/geoBoundaries-NGA-ADM2.geojson
+
+- iso: ZAF
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ZAF/ADM2/geoBoundaries-ZAF-ADM2.geojson
+
+- iso: GAB
+  level: ADM2
+  boundary_year: 2018
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GAB/ADM2/geoBoundaries-GAB-ADM2.geojson
+
+- iso: HRV
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HRV/ADM2/geoBoundaries-HRV-ADM2.geojson
+
+- iso: JPN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JPN/ADM2/geoBoundaries-JPN-ADM2.geojson
+
+- iso: SYC
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SYC/ADM2/geoBoundaries-SYC-ADM2.geojson
+
+- iso: VEN
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VEN/ADM2/geoBoundaries-VEN-ADM2.geojson
+
+- iso: BHS
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BHS/ADM2/geoBoundaries-BHS-ADM2.geojson
+
+- iso: AGO
+  level: ADM2
+  boundary_year: 2006
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AGO/ADM2/geoBoundaries-AGO-ADM2.geojson
+
+- iso: COD
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COD/ADM2/geoBoundaries-COD-ADM2.geojson
+
+- iso: TCD
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TCD/ADM2/geoBoundaries-TCD-ADM2.geojson
+
+- iso: BOL
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BOL/ADM2/geoBoundaries-BOL-ADM2.geojson
+
+- iso: CHN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHN/ADM2/geoBoundaries-CHN-ADM2.geojson
+
+- iso: PHL
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/41af8f1/releaseData/gbOpen/PHL/ADM2/geoBoundaries-PHL-ADM2.geojson
+
+- iso: DNK
+  level: ADM2
+  boundary_year: 2018
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DNK/ADM2/geoBoundaries-DNK-ADM2.geojson
+
+- iso: SGP
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SGP/ADM2/geoBoundaries-SGP-ADM2.geojson
+
+- iso: SVK
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SVK/ADM2/geoBoundaries-SVK-ADM2.geojson
+
+- iso: WSM
+  level: ADM2
+  boundary_year: 2011
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/WSM/ADM2/geoBoundaries-WSM-ADM2.geojson
+
+- iso: SEN
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SEN/ADM2/geoBoundaries-SEN-ADM2.geojson
+
+- iso: SLE
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLE/ADM2/geoBoundaries-SLE-ADM2.geojson
+
+- iso: MDG
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDG/ADM2/geoBoundaries-MDG-ADM2.geojson
+
+- iso: DOM
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/DOM/ADM2/geoBoundaries-DOM-ADM2.geojson
+
+- iso: ECU
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ECU/ADM2/geoBoundaries-ECU-ADM2.geojson
+
+- iso: NLD
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NLD/ADM2/geoBoundaries-NLD-ADM2.geojson
+
+- iso: TON
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM2/geoBoundaries-TON-ADM2.geojson
+
+- iso: GUM
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GUM/ADM2/geoBoundaries-GUM-ADM2.geojson
+
+- iso: IRQ
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IRQ/ADM2/geoBoundaries-IRQ-ADM2.geojson
+
+- iso: ROU
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ROU/ADM2/geoBoundaries-ROU-ADM2.geojson
+
+- iso: RUS
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RUS/ADM2/geoBoundaries-RUS-ADM2.geojson
+
+- iso: PNG
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PNG/ADM2/geoBoundaries-PNG-ADM2.geojson
+
+- iso: GHA
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GHA/ADM2/geoBoundaries-GHA-ADM2.geojson
+
+- iso: ERI
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ERI/ADM2/geoBoundaries-ERI-ADM2.geojson
+
+- iso: CZE
+  level: ADM2
+  boundary_year: 2010
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CZE/ADM2/geoBoundaries-CZE-ADM2.geojson
+
+- iso: BWA
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BWA/ADM2/geoBoundaries-BWA-ADM2.geojson
+
+- iso: CPV
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CPV/ADM2/geoBoundaries-CPV-ADM2.geojson
+
+- iso: MOZ
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MOZ/ADM2/geoBoundaries-MOZ-ADM2.geojson
+
+- iso: GBR
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GBR/ADM2/geoBoundaries-GBR-ADM2.geojson
+
+- iso: SLB
+  level: ADM2
+  boundary_year: 2018
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLB/ADM2/geoBoundaries-SLB-ADM2.geojson
+
+- iso: COL
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COL/ADM2/geoBoundaries-COL-ADM2.geojson
+
+- iso: VUT
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VUT/ADM2/geoBoundaries-VUT-ADM2.geojson
+
+- iso: YEM
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/YEM/ADM2/geoBoundaries-YEM-ADM2.geojson
+
+- iso: GNB
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GNB/ADM2/geoBoundaries-GNB-ADM2.geojson
+
+- iso: IRL
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IRL/ADM2/geoBoundaries-IRL-ADM2.geojson
+
+- iso: HUN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HUN/ADM2/geoBoundaries-HUN-ADM2.geojson
+
+- iso: NER
+  level: ADM2
+  boundary_year: 2018
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NER/ADM2/geoBoundaries-NER-ADM2.geojson
+
+- iso: CMR
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CMR/ADM2/geoBoundaries-CMR-ADM2.geojson
+
+- iso: CUB
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CUB/ADM2/geoBoundaries-CUB-ADM2.geojson
+
+- iso: TUR
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM2/geoBoundaries-TUR-ADM2.geojson
+
+- iso: LTU
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LTU/ADM2/geoBoundaries-LTU-ADM2.geojson
+
+- iso: BIH
+  level: ADM2
+  boundary_year: 2013
+  url: https://github.com/wmgeolab/geoBoundaries/raw/f549eab/releaseData/gbOpen/BIH/ADM2/geoBoundaries-BIH-ADM2.geojson
+
+- iso: PER
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PER/ADM2/geoBoundaries-PER-ADM2.geojson
+
+- iso: KAZ
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KAZ/ADM2/geoBoundaries-KAZ-ADM2.geojson
+
+- iso: SWE
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWE/ADM2/geoBoundaries-SWE-ADM2.geojson
+
+- iso: ITA
+  level: ADM2
+  boundary_year: 2023
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ITA/ADM2/geoBoundaries-ITA-ADM2.geojson
+
+- iso: SLV
+  level: ADM2
+  boundary_year: 2007
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SLV/ADM2/geoBoundaries-SLV-ADM2.geojson
+
+- iso: EST
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EST/ADM2/geoBoundaries-EST-ADM2.geojson
+
+- iso: LKA
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LKA/ADM2/geoBoundaries-LKA-ADM2.geojson
+
+- iso: HTI
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HTI/ADM2/geoBoundaries-HTI-ADM2.geojson
+
+- iso: PLW
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PLW/ADM2/geoBoundaries-PLW-ADM2.geojson
+
+- iso: UKR
+  level: ADM2
+  boundary_year: 2006
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM2/geoBoundaries-UKR-ADM2.geojson
+
+- iso: COM
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COM/ADM2/geoBoundaries-COM-ADM2.geojson
+
+- iso: BRN
+  level: ADM2
+  boundary_year: 2006
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BRN/ADM2/geoBoundaries-BRN-ADM2.geojson
+
+- iso: BGR
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BGR/ADM2/geoBoundaries-BGR-ADM2.geojson
+
+- iso: TZA
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TZA/ADM2/geoBoundaries-TZA-ADM2.geojson
+
+- iso: MNG
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNG/ADM2/geoBoundaries-MNG-ADM2.geojson
+
+- iso: PAN
+  level: ADM2
+  boundary_year: 2012
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAN/ADM2/geoBoundaries-PAN-ADM2.geojson
+
+- iso: GTM
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GTM/ADM2/geoBoundaries-GTM-ADM2.geojson
+
+- iso: FIN
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FIN/ADM2/geoBoundaries-FIN-ADM2.geojson
+
+- iso: BRA
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BRA/ADM2/geoBoundaries-BRA-ADM2.geojson
+
+- iso: PRK
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PRK/ADM2/geoBoundaries-PRK-ADM2.geojson
+
+- iso: CRI
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CRI/ADM2/geoBoundaries-CRI-ADM2.geojson
+
+- iso: BEL
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEL/ADM2/geoBoundaries-BEL-ADM2.geojson
+
+- iso: NIC
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NIC/ADM2/geoBoundaries-NIC-ADM2.geojson
+
+- iso: BFA
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM2/geoBoundaries-BFA-ADM2.geojson
+
+- iso: BLR
+  level: ADM2
+  boundary_year: 2005
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM2/geoBoundaries-BLR-ADM2.geojson
+
+- iso: SDN
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SDN/ADM2/geoBoundaries-SDN-ADM2.geojson
+
+- iso: JOR
+  level: ADM2
+  boundary_year: 2006
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/JOR/ADM2/geoBoundaries-JOR-ADM2.geojson
+
+- iso: SAU
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SAU/ADM2/geoBoundaries-SAU-ADM2.geojson
+
+- iso: FRA
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FRA/ADM2/geoBoundaries-FRA-ADM2.geojson
+
+- iso: SSD
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SSD/ADM2/geoBoundaries-SSD-ADM2.geojson
+
+- iso: PSE
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PSE/ADM2/geoBoundaries-PSE-ADM2.geojson
+
+- iso: PRY
+  level: ADM2
+  boundary_year: 2012
+  url: https://github.com/wmgeolab/geoBoundaries/raw/f549eab/releaseData/gbOpen/PRY/ADM2/geoBoundaries-PRY-ADM2.geojson
+
+- iso: SUR
+  level: ADM2
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SUR/ADM2/geoBoundaries-SUR-ADM2.geojson
+
+- iso: IDN
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IDN/ADM2/geoBoundaries-IDN-ADM2.geojson
+
+- iso: LAO
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LAO/ADM2/geoBoundaries-LAO-ADM2.geojson
+
+- iso: AZE
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AZE/ADM2/geoBoundaries-AZE-ADM2.geojson
+
+- iso: ARG
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARG/ADM2/geoBoundaries-ARG-ADM2.geojson
+
+- iso: KEN
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM2/geoBoundaries-KEN-ADM2.geojson
+
+- iso: MAR
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MAR/ADM2/geoBoundaries-MAR-ADM2.geojson
+
+- iso: NOR
+  level: ADM2
+  boundary_year: 2013
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NOR/ADM2/geoBoundaries-NOR-ADM2.geojson
+
+- iso: AFG
+  level: ADM2
+  boundary_year: 2014
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/AFG/ADM2/geoBoundaries-AFG-ADM2.geojson
+
+- iso: GIN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GIN/ADM2/geoBoundaries-GIN-ADM2.geojson
+
+- iso: SRB
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SRB/ADM2/geoBoundaries-SRB-ADM2.geojson
+
+- iso: GUY
+  level: ADM2
+  boundary_year: 2019
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GUY/ADM2/geoBoundaries-GUY-ADM2.geojson
+
+- iso: KHM
+  level: ADM2
+  boundary_year: 2014
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KHM/ADM2/geoBoundaries-KHM-ADM2.geojson
+
+- iso: URY
+  level: ADM2
+  boundary_year: 2013
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/URY/ADM2/geoBoundaries-URY-ADM2.geojson
+
+- iso: TUN
+  level: ADM2
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUN/ADM2/geoBoundaries-TUN-ADM2.geojson
+
+- iso: GNQ
+  level: ADM2
+  boundary_year: 2013
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GNQ/ADM2/geoBoundaries-GNQ-ADM2.geojson
+
+- iso: ISL
+  level: ADM2
+  boundary_year: 2016
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ISL/ADM2/geoBoundaries-ISL-ADM2.geojson
+
+- iso: QAT
+  level: ADM2
+  boundary_year: 2015
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/QAT/ADM2/geoBoundaries-QAT-ADM2.geojson
+
+- iso: BLZ
+  level: ADM2
+  boundary_year: 2008
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLZ/ADM2/geoBoundaries-BLZ-ADM2.geojson
+
+- iso: KOR
+  level: ADM2
+  boundary_year: 2020
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KOR/ADM2/geoBoundaries-KOR-ADM2.geojson
 

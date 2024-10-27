@@ -1,0 +1,19 @@
+- iso: ASM
+  level: ADM0
+  boundary_year: 2021
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0.geojson
+
+- iso: MAR
+  level: ADM1
+  boundary_year: 2017
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MAR/ADM1/geoBoundaries-MAR-ADM1.geojson
+
+- iso: CHE
+  level: ADM2
+  boundary_year: 2022
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CHE/ADM2/geoBoundaries-CHE-ADM2.geojson
+
+- iso: BEL
+  level: ADM4
+  boundary_year: 2018
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEL/ADM4/geoBoundaries-BEL-ADM4.geojson
