@@ -1,7 +1,0 @@
-iso: GIB
-
-links:
-- level: 0
-  boundary_year: 2021
-  link: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/GIB/ADM0/geoBoundaries-GIB-ADM0.geojson
-
