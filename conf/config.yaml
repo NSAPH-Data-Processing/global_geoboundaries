@@ -6,8 +6,6 @@ links: ${geoboundaries} #necessary hack to get snakemake and hydra compatible
 
 output_dir: outdir/ADM0
 
-dry_run: False # to test functionality without downloading anything
-
 hydra:
   run:
     dir: logs/${now:%Y-%m-%d}/${now:%H-%M-%S}

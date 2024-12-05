@@ -10,7 +10,7 @@ class Downloader():
     Class to download geoboundary files from www.geoboundaries.org/
     """
 
-    def __init__(self, link, output_dir, dry_run=False):
+    def __init__(self, link, output_dir):
         """
         Initializes the Downloader object.
 
@@ -20,11 +20,9 @@ class Downloader():
             Directory to save the downloaded files
         link : dict
             Dictionary containing the download link and metadata of a geoboundary file
-        dry_run : bool
         """
         self.output_dir = output_dir
         self.link = link
-        self.dry_run = dry_run
 
     def save_to_path(self, iso, data_url, path, level):
         """Transforms .geojson from data_url and saves .shp to the specified path.
@@ -42,11 +40,6 @@ class Downloader():
         suffix : int
             e.g. 0, 1, 2
         """
-        if self.dry_run:
-            logger.warning(
-                f'Dry run: Downloading {iso} {level} file from {data_url}')
-            return
-
         logger.info(f"Downloading {iso} {level} file from {data_url}")
 
         response = requests.get(data_url)
@@ -95,7 +88,7 @@ def main(cfg):
         downloader = Downloader(
             output_dir=cfg.output_dir,
             link=link, #link is a dictionary as required by the Downloader class
-            dry_run=cfg.dry_run)
+            )
         
         errors[link["iso"] + "_" + link["level"]] = (downloader.download())
     
