@@ -1,22 +1,31 @@
 import os
-
 from loguru import logger
 import requests
-import yaml
 import geopandas as gpd
-
-from hydra.core.hydra_config import HydraConfig
 import hydra
+from omegaconf import OmegaConf
 
 class Downloader():
+    """
+    Class to download geoboundary files from www.geoboundaries.org/
+    """
 
-    def __init__(self, output_dir, config_dir=None, dry_run=False):
+    def __init__(self, link, output_dir):
+        """
+        Initializes the Downloader object.
+
+        Parameters
+        ----------
+        output_dir : str
+            Directory to save the downloaded files
+        link : dict
+            Dictionary containing the download link and metadata of a geoboundary file
+        """
         self.output_dir = output_dir
-        self.config_dir = config_dir
-        self.dry_run = dry_run
+        self.link = link
 
     def save_to_path(self, iso, data_url, path, level):
-        """Saves the .geojson from data_url to the specified path.
+        """Transforms .geojson from data_url and saves .shp to the specified path.
 
         Parameters
         ----------
@@ -31,11 +40,6 @@ class Downloader():
         suffix : int
             e.g. 0, 1, 2
         """
-        if self.dry_run:
-            logger.warning(
-                f'Dry run: Downloading {iso} {level} file from {data_url}')
-            return
-
         logger.info(f"Downloading {iso} {level} file from {data_url}")
 
         response = requests.get(data_url)
@@ -48,61 +52,49 @@ class Downloader():
             gdf.to_file(os.path.join(path, outfilename))
         else:
             logger.error(f'Response status code: {response.status_code}')
-            raise ValueError(f'Could not download data from URL: {data_url}')
-
-
-
-    # snakemake should perform the download for each item in the config file
-    # don't need for loops, all dictionaries in conf file are being mapped into output dataset
-    # all job workflow related tasks will be handled by snakemake
-    
-
-
+            raise ValueError(f'Could not download data from URL: {data_url}')    
 
      # returns a dictionary of downloads to error messages, if any
-    def download(self):
-        errors = {}  # will map download name to error message if any        
+    def download(self):        
+        data_url = self.link['url']
+        level = self.link['level']
+        iso = self.link['iso']
+
+        path = self.output_dir + '/' + iso + '_' + level + '/'
         
-        for link_config in self.config_dir.geoboundaries['links']:
-            data_url = link_config['link']
-            if 'level' in link_config: #iso config
-                level = 'ADM' + str(link_config['level'])
-                iso = self.config_dir.geoboundaries['iso']
-            else:
-                level = self.config_dir.geoboundaries['adm']
-                iso = link_config['iso']
+        os.makedirs(path, exist_ok=True)
 
-            path = self.output_dir + iso + '_' + level + '/'
-            
-            os.makedirs(path, exist_ok=True)
+        # try 4 times in case of intermittent issues
+        for i in range(4):
+            try:
+                self.save_to_path(
+                    iso, data_url, path, level)
+                err = None
+                break
+            except Exception as e:
+                logger.error(f'Download {iso} {level} failed attempt %d' % (i+1))
+                err = e
 
-            # try 4 times in case of intermittent issues
-            err = None
-            for i in range(4):
-                try:
-                    self.save_to_path(
-                        iso, data_url, path, level)
-                    err = None
-                    break
-                except Exception as e:
-                    logger.error(f'Download {iso} {level} failed attempt %d' % (i+1))
-                    err = e
+        return err
 
-            if err:
-                errors[level] = err
-
-        return errors
-    
 @hydra.main(config_path="conf", config_name="config", version_base=None)
 def main(cfg):
-    downloader = Downloader(
-        output_dir=cfg.output_dir,
-        dry_run=cfg.dry_run, config_dir=cfg)
-    
-    errors = downloader.download()
-    for suffix, error in errors.items():
-        logger.error(f'Error in level {suffix}: {error}')
+    errors = {}  # will map download name to error message if any 
 
+    for link in cfg.links:
+        ##make an omega conf object a dictionary
+        link=OmegaConf.to_container(link, resolve=True)
+
+        downloader = Downloader(
+            output_dir=cfg.output_dir,
+            link=link, #link is a dictionary as required by the Downloader class
+            )
+        
+        errors[link["iso"] + "_" + link["level"]] = (downloader.download())
+    
+    for suffix, error in errors.items():
+        if error:
+            logger.error(f'Error in download {suffix}: {error}')
 
 if __name__ == "__main__":
     main()

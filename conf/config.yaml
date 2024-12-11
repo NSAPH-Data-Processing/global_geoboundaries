@@ -2,6 +2,10 @@ defaults:
   - _self_
   - geoboundaries: ADM0 # possible options are ADM0-ADM5 and all ISO codes
 
-output_dir: outdir/
+links: ${geoboundaries} #necessary hack to get snakemake and hydra compatible
 
-dry_run: True # to test functionality without downloading anything
+output_dir: outdir/ADM0
+
+hydra:
+  run:
+    dir: logs/${now:%Y-%m-%d}/${now:%H-%M-%S}
