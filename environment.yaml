@@ -1,0 +1,18 @@
+name: global_geoboundaries
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - geopandas
+  - loguru
+  - matplotlib
+  - pycountry
+  - PyYAML
+  - Requests
+  - hydra-core
+  - pip
+  - pip:
+    - ipykernel
+    - snakemake
+ 
